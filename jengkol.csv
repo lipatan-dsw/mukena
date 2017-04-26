@@ -1,0 +1,411 @@
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
+Jual Bawang Goreng Rasa ORIGINAL Murah,bawang-goreng-rasa-original,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Bawang Goreng Rasa ORIGINAL. Bawang siap saji paling enak yang pernah ada! Yang gak suka bawang pun pasti suka deh.
+<br/><br/>
+Salah satu masterpiece produk kuliner asal Bandung.
+<br/><br/>
+Apa yang membuat bawang maniak ngehits?
+<br/><br/>
+- Dibuat homemade tanpa msg apalagi pengawet.
+<br/>- Tanpa campuran tepung.
+<br/>- Renyah, gurih, kriuk.
+<br/>- Kemasan memudahkan untuk dibawa bawa.
+<br/>- Kemasan juga menarik dan kekinian.
+<br/>- Dijamin jika anda posting di instagram akan banyak yang nanya.
+<br/>- Bisa dicemil. Berasa makan ciki kalau udah dicemil
+<br/><br/>
+Bawang maniak biasa digunakan untuk menemani nasi, mie, sop, soto, dan sebagainya..
+<br/><br/>
+Buat pecinta bawang, bawang maniak wajib ada di tas kamu untuk menemani setiap makanan kamu.
+<br/><br/>
+Barang selalu ready dan siap kirim!
+<br/><br/>Berat : 0.115 kg<br/>Kode : BAWANGORI<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-19,html,makanan,bawang-maniak,makanan,bawang-maniak,Bawang Goreng Rasa ORIGINAL - Bawang Maniak,https://images.lipatan.com/katalog-bawang-maniak/1-original/1.jpg,Bawang Goreng Rasa ORIGINAL,Rp 32.400,BAWANGORI,Baru
+Jual Bawang Goreng Rasa PEDAS Murah,bawang-goreng-rasa-pedas,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Bawang Goreng Rasa PEDAS. Bawang siap saji paling enak yang pernah ada! Yang gak suka bawang pun pasti suka deh.
+<br/><br/>
+Salah satu masterpiece produk kuliner asal Bandung.
+<br/><br/>
+Apa yang membuat bawang maniak ngehits?
+<br/><br/>
+- Dibuat homemade tanpa msg apalagi pengawet.
+<br/>- Tanpa campuran tepung.
+<br/>- Renyah, gurih, kriuk.
+<br/>- Kemasan memudahkan untuk dibawa bawa.
+<br/>- Kemasan juga menarik dan kekinian.
+<br/>- Dijamin jika anda posting di instagram akan banyak yang nanya.
+<br/>- Bisa dicemil. Berasa makan ciki kalau udah dicemil
+<br/><br/>
+Bawang maniak biasa digunakan untuk menemani nasi, mie, sop, soto, dan sebagainya..
+<br/><br/>
+Buat pecinta bawang, bawang maniak wajib ada di tas kamu untuk menemani setiap makanan kamu.
+<br/><br/>
+Barang selalu ready dan siap kirim!
+<br/><br/>Berat : 0.115 kg<br/>Kode : BAWANGHOT<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-19,html,makanan,bawang-maniak,makanan,bawang-maniak,Bawang Goreng Rasa PEDAS - Bawang Maniak,https://images.lipatan.com/katalog-bawang-maniak/2-hot/1.jpg,Bawang Goreng Rasa PEDAS,Rp 32.400,BAWANGHOT,Baru
+Jual Bawang Goreng Rasa RUMPUT LAUT Murah,bawang-goreng-rasa-rumput-laut,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Bawang Goreng Rasa RUMPUT LAUT. Bawang siap saji paling enak yang pernah ada! Yang gak suka bawang pun pasti suka deh.
+<br/><br/>
+Salah satu masterpiece produk kuliner asal Bandung.
+<br/><br/>
+Apa yang membuat bawang maniak ngehits?
+<br/><br/>
+- Dibuat homemade tanpa msg apalagi pengawet.
+<br/>- Tanpa campuran tepung.
+<br/>- Renyah, gurih, kriuk.
+<br/>- Kemasan memudahkan untuk dibawa bawa.
+<br/>- Kemasan juga menarik dan kekinian.
+<br/>- Dijamin jika anda posting di instagram akan banyak yang nanya.
+<br/>- Bisa dicemil. Berasa makan ciki kalau udah dicemil
+<br/><br/>
+Bawang maniak biasa digunakan untuk menemani nasi, mie, sop, soto, dan sebagainya..
+<br/><br/>
+Buat pecinta bawang, bawang maniak wajib ada di tas kamu untuk menemani setiap makanan kamu.
+<br/><br/>
+Barang selalu ready dan siap kirim!
+<br/><br/>Berat : 0.115 kg<br/>Kode : BAWANGSEAWEED<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-19,html,makanan,bawang-maniak,makanan,bawang-maniak,Bawang Goreng Rasa RUMPUT LAUT - Bawang Maniak,https://images.lipatan.com/katalog-bawang-maniak/3-seaweed/1.jpg,Bawang Goreng Rasa RUMPUT LAUT,Rp 32.400,BAWANGSEAWEED,Baru
+Jual Bawang Goreng 3 Rasa ORI-PEDAS-RUMPUT LAUT Murah,bawang-goreng-3-rasa-ori-pedas-rumput-laut,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Bawang Goreng 3 Rasa ORI-PEDAS-RUMPUT LAUT. Bawang siap saji paling enak yang pernah ada! Yang gak suka bawang pun pasti suka deh.
+<br/><br/>
+Salah satu masterpiece produk kuliner asal Bandung.
+<br/><br/>
+Apa yang membuat bawang maniak ngehits?
+<br/><br/>
+- Dibuat homemade tanpa msg apalagi pengawet.
+<br/>- Tanpa campuran tepung.
+<br/>- Renyah, gurih, kriuk.
+<br/>- Kemasan memudahkan untuk dibawa bawa.
+<br/>- Kemasan juga menarik dan kekinian.
+<br/>- Dijamin jika anda posting di instagram akan banyak yang nanya.
+<br/>- Bisa dicemil. Berasa makan ciki kalau udah dicemil
+<br/><br/>
+Bawang maniak biasa digunakan untuk menemani nasi, mie, sop, soto, dan sebagainya..
+<br/><br/>
+Buat pecinta bawang, bawang maniak wajib ada di tas kamu untuk menemani setiap makanan kamu.
+<br/><br/>
+Barang selalu ready dan siap kirim!
+<br/><br/>Berat : 0.345 kg<br/>Kode : PAKETBAWANG<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-19,html,makanan,bawang-maniak,makanan,bawang-maniak,Bawang Goreng 3 Rasa ORI-PEDAS-RUMPUT LAUT - Bawang Maniak,https://images.lipatan.com/katalog-bawang-maniak/4-paket-3-rasa/1.jpg,Bawang Goreng 3 Rasa ORI-PEDAS-RUMPUT LAUT,Rp 93.600,PAKETBAWANG,Baru
+Jual Bawang Goreng 3 Rasa (33 buah) ORI-PEDAS-RUMPUT LAUT Murah,bawang-goreng-3-rasa-(33-buah)-ori-pedas-rumput-laut,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Bawang Goreng 3 Rasa (33 buah) ORI-PEDAS-RUMPUT LAUT. Bawang siap saji paling enak yang pernah ada! Yang gak suka bawang pun pasti suka deh.
+<br/><br/>
+Salah satu masterpiece produk kuliner asal Bandung.
+<br/><br/>
+Apa yang membuat bawang maniak ngehits?
+<br/><br/>
+- Dibuat homemade tanpa msg apalagi pengawet.
+<br/>- Tanpa campuran tepung.
+<br/>- Renyah, gurih, kriuk.
+<br/>- Kemasan memudahkan untuk dibawa bawa.
+<br/>- Kemasan juga menarik dan kekinian.
+<br/>- Dijamin jika anda posting di instagram akan banyak yang nanya.
+<br/>- Bisa dicemil. Berasa makan ciki kalau udah dicemil
+<br/><br/>
+Bawang maniak biasa digunakan untuk menemani nasi, mie, sop, soto, dan sebagainya..
+<br/><br/>
+Buat pecinta bawang, bawang maniak wajib ada di tas kamu untuk menemani setiap makanan kamu.
+<br/><br/>
+Barang selalu ready dan siap kirim!
+<br/><br/>Berat : 3.795 kg<br/>Kode : PAKETBAWANG33PCS<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-19,html,makanan,bawang-maniak,makanan,bawang-maniak,Bawang Goreng 3 Rasa (33 buah) ORI-PEDAS-RUMPUT LAUT - Bawang Maniak,https://images.lipatan.com/katalog-bawang-maniak/4-paket-3-rasa/1.jpg,Bawang Goreng 3 Rasa (33 buah) ORI-PEDAS-RUMPUT LAUT,Rp 990.000,PAKETBAWANG33PCS,Baru
