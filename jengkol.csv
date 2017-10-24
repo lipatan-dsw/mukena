@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
-Jual Mukena Spandex - RAO 059 Murah,mukena-spandex-rao-059,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
+Jual Mukena Shalat Muslimah Kasual Wanita - RAO 036 Murah,mukena-shalat-muslimah-kasual-wanita-rao-036,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,6 +24,7 @@ Jual Mukena Spandex - RAO 059 Murah,mukena-spandex-rao-059,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -46,7 +47,7 @@ Jual Mukena Spandex - RAO 059 Murah,mukena-spandex-rao-059,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Mukena merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena Spandex - RAO 059 dengan bahan SPANDEX ini dijamin awet.<br/>Kode : RAO 059<br/>Warna : HITAM<br/>Bahan : SPANDEX<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.9 kg<br>
+         <p>Mukena Shalat Muslimah Kasual Wanita - RAO 036 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena ini terbuat dari bahan COTTON.<br/>Kode : RAO 036<br/>Warna : PUTIH<br/>Bahan : COTTON<br/>Ukuran : AS<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -61,8 +62,8 @@ Jual Mukena Spandex - RAO 059 Murah,mukena-spandex-rao-059,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan SPANDEX, Ukuran All Size (1 Ukuran), Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/192-rao-059.jpg,Mukena Spandex - RAO 059,Rp 191.400,RAO 059,Baru
-Jual Mukena Spandex - RAO 057 Murah,mukena-spandex-rao-057,"
+     </div><!--/category-tab-->",2017-10-17,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan COTTON, Ukuran AS, Warna PUTIH",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/169-rao-036.jpg,/,/,/,/,/,Mukena Shalat Muslimah Kasual Wanita - RAO 036,Rp 195.900,Rp 229.900,Rp 34.000,RAO 036,Baru
+Jual Mukena Shalat Muslimah Kasual Wanita - RAO 057 Murah,mukena-shalat-muslimah-kasual-wanita-rao-057,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -87,6 +88,7 @@ Jual Mukena Spandex - RAO 057 Murah,mukena-spandex-rao-057,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -109,7 +111,7 @@ Jual Mukena Spandex - RAO 057 Murah,mukena-spandex-rao-057,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Mukena merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena Spandex - RAO 057 dengan bahan SPANDEX ini dijamin awet.<br/>Kode : RAO 057<br/>Warna : PINK<br/>Bahan : SPANDEX<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.9 kg<br>
+         <p>Mukena Shalat Muslimah Kasual Wanita - RAO 057 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena ini terbuat dari bahan SPANDEX.<br/>Kode : RAO 057<br/>Warna : PINK<br/>Bahan : SPANDEX<br/>Ukuran : AS<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -124,8 +126,8 @@ Jual Mukena Spandex - RAO 057 Murah,mukena-spandex-rao-057,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan SPANDEX, Ukuran All Size (1 Ukuran), Warna PINK",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/193-rao-057.jpg,Mukena Spandex - RAO 057,Rp 185.900,RAO 057,Baru
-Jual Mukena Katun - RAO 062 Murah,mukena-katun-rao-062,"
+     </div><!--/category-tab-->",2017-10-17,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan SPANDEX, Ukuran AS, Warna PINK",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/170-rao-057.jpg,/,/,/,/,/,Mukena Shalat Muslimah Kasual Wanita - RAO 057,Rp 185.900,Rp 217.900,Rp 32.000,RAO 057,Baru
+Jual Mukena Shalat Muslimah Kasual Wanita - RAO 059 Murah,mukena-shalat-muslimah-kasual-wanita-rao-059,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -150,6 +152,7 @@ Jual Mukena Katun - RAO 062 Murah,mukena-katun-rao-062,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -172,7 +175,7 @@ Jual Mukena Katun - RAO 062 Murah,mukena-katun-rao-062,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Mukena merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena Katun - RAO 062 dengan bahan COTTON ini dijamin awet.<br/>Kode : RAO 062<br/>Warna : HIJAU<br/>Bahan : COTTON<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.9 kg<br>
+         <p>Mukena Shalat Muslimah Kasual Wanita - RAO 059 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena ini terbuat dari bahan SPANDEX.<br/>Kode : RAO 059<br/>Warna : HITAM<br/>Bahan : SPANDEX<br/>Ukuran : AS<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -187,8 +190,8 @@ Jual Mukena Katun - RAO 062 Murah,mukena-katun-rao-062,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan COTTON, Ukuran All Size (1 Ukuran), Warna HIJAU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/194-rao-062.jpg,Mukena Katun - RAO 062,Rp 200.900,RAO 062,Baru
-Jual Mukena Spandex - RAO 055 Murah,mukena-spandex-rao-055,"
+     </div><!--/category-tab-->",2017-10-17,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan SPANDEX, Ukuran AS, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/171-rao-059.jpg,/,/,/,/,/,Mukena Shalat Muslimah Kasual Wanita - RAO 059,Rp 191.400,Rp 223.900,Rp 32.500,RAO 059,Baru
+Jual Mukena Shalat Muslimah Kasual Wanita - RYZ 003 Murah,mukena-shalat-muslimah-kasual-wanita-ryz-003,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -213,6 +216,7 @@ Jual Mukena Spandex - RAO 055 Murah,mukena-spandex-rao-055,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -235,7 +239,7 @@ Jual Mukena Spandex - RAO 055 Murah,mukena-spandex-rao-055,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Mukena merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena Spandex - RAO 055 dengan bahan SPANDEX ini dijamin awet.<br/>Kode : RAO 055<br/>Warna : PUTIH<br/>Bahan : SPANDEX<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.9 kg<br>
+         <p>Mukena Shalat Muslimah Kasual Wanita - RYZ 003 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena ini terbuat dari bahan COTTON.<br/>Kode : RYZ 003<br/>Warna : PUTIH<br/>Bahan : COTTON<br/>Ukuran : AS<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -250,8 +254,8 @@ Jual Mukena Spandex - RAO 055 Murah,mukena-spandex-rao-055,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan SPANDEX, Ukuran All Size (1 Ukuran), Warna PUTIH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/195-rao-055.jpg,Mukena Spandex - RAO 055,Rp 167.900,RAO 055,Baru
-Jual Mukena Sutra - RAO 038 Murah,mukena-sutra-rao-038,"
+     </div><!--/category-tab-->",2017-10-17,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan COTTON, Ukuran AS, Warna PUTIH",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/172-ryz-003.jpg,/,/,/,/,/,Mukena Shalat Muslimah Kasual Wanita - RYZ 003,Rp 178.900,Rp 209.900,Rp 31.000,RYZ 003,Baru
+Jual Mukena Shalat Muslimah Kasual Wanita - RYZ 002 Murah,mukena-shalat-muslimah-kasual-wanita-ryz-002,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -276,6 +280,7 @@ Jual Mukena Sutra - RAO 038 Murah,mukena-sutra-rao-038,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -298,7 +303,7 @@ Jual Mukena Sutra - RAO 038 Murah,mukena-sutra-rao-038,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Mukena merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena Sutra - RAO 038 dengan bahan CORAL SUTRA ini dijamin awet.<br/>Kode : RAO 038<br/>Warna : MERAH<br/>Bahan : CORAL SUTRA<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.9 kg<br>
+         <p>Mukena Shalat Muslimah Kasual Wanita - RYZ 002 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena ini terbuat dari bahan RAYON.<br/>Kode : RYZ 002<br/>Warna : HITAM<br/>Bahan : RAYON<br/>Ukuran : AS<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -313,8 +318,8 @@ Jual Mukena Sutra - RAO 038 Murah,mukena-sutra-rao-038,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan CORAL SUTRA, Ukuran All Size (1 Ukuran), Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/196-rao-038.jpg,Mukena Sutra - RAO 038,Rp 186.900,RAO 038,Baru
-Jual Mukena Katun - RAO 036 Murah,mukena-katun-rao-036,"
+     </div><!--/category-tab-->",2017-10-17,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan RAYON, Ukuran AS, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/173-ryz-002.jpg,/,/,/,/,/,Mukena Shalat Muslimah Kasual Wanita - RYZ 002,Rp 178.900,Rp 209.900,Rp 31.000,RYZ 002,Baru
+Jual Mukena Shalat Muslimah Kasual Wanita - RAO 068 Murah,mukena-shalat-muslimah-kasual-wanita-rao-068,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -339,6 +344,7 @@ Jual Mukena Katun - RAO 036 Murah,mukena-katun-rao-036,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -361,7 +367,7 @@ Jual Mukena Katun - RAO 036 Murah,mukena-katun-rao-036,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Mukena merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena Katun - RAO 036 dengan bahan COTTON ini dijamin awet.<br/>Kode : RAO 036<br/>Warna : PUTIH<br/>Bahan : COTTON<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.9 kg<br>
+         <p>Mukena Shalat Muslimah Kasual Wanita - RAO 068 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena ini terbuat dari bahan VELVET.<br/>Kode : RAO 068<br/>Warna : HIJAU<br/>Bahan : VELVET<br/>Ukuran : AS<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -376,4 +382,132 @@ Jual Mukena Katun - RAO 036 Murah,mukena-katun-rao-036,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan COTTON, Ukuran All Size (1 Ukuran), Warna PUTIH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/197-rao-036.jpg,Mukena Katun - RAO 036,Rp 195.900,RAO 036,Baru
+     </div><!--/category-tab-->",2017-10-17,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan VELVET, Ukuran AS, Warna HIJAU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/174-rao-068.jpg,/,/,/,/,/,Mukena Shalat Muslimah Kasual Wanita - RAO 068,Rp 207.900,Rp 243.900,Rp 36.000,RAO 068,Baru
+Jual Mukena Shalat Muslimah Kasual Wanita - RYZ 001 Murah,mukena-shalat-muslimah-kasual-wanita-ryz-001,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Mukena Shalat Muslimah Kasual Wanita - RYZ 001 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena ini terbuat dari bahan COTTON.<br/>Kode : RYZ 001<br/>Warna : HIJAU<br/>Bahan : COTTON<br/>Ukuran : AS<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-10-17,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan COTTON, Ukuran AS, Warna HIJAU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/175-ryz-001.jpg,/,/,/,/,/,Mukena Shalat Muslimah Kasual Wanita - RYZ 001,Rp 178.900,Rp 209.900,Rp 31.000,RYZ 001,Baru
+Jual Mukena Shalat Muslimah Kasual Wanita - RAO 069 Murah,mukena-shalat-muslimah-kasual-wanita-rao-069,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Mukena Shalat Muslimah Kasual Wanita - RAO 069 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena ini terbuat dari bahan SPANDEX.<br/>Kode : RAO 069<br/>Warna : MARUN<br/>Bahan : SPANDEX<br/>Ukuran : AS<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-10-17,html,mukena,raindoz,mukena,raindoz,"Mukena Bahan SPANDEX, Ukuran AS, Warna MARUN",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/176-rao-069.jpg,/,/,/,/,/,Mukena Shalat Muslimah Kasual Wanita - RAO 069,Rp 171.900,Rp 201.900,Rp 30.000,RAO 069,Baru
